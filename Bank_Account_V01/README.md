@@ -20,16 +20,16 @@ A **Python-based Banking System** that simulates real-world banking operations u
 ---
 
 ## Screenshots 🖼️
-![alt text](image01.png)
+![alt text](Screenshots\image01.png)
 
-![alt text](image.png)
+![alt text](Screenshots\image.png)
 
-![alt text](image-1.png)
+![alt text](Screenshots\mage-1.png)
 
-![alt text](image-2.png)
+![alt text](Screenshots\image-2.png)
 
-![alt text](image-3.png)
+![alt text](Screenshots\image-3.png)
 
-![alt text](image-4.png)
+![alt text](Screenshots\image-4.png)
 
 ---
